@@ -1,0 +1,23 @@
+git init
+git status
+git log
+
+git add filename (git add index.html)
+
+//to remove all the added file in current directory
+git rm --cached -r .
+
+//commit to git repo
+git commit -m "Log message"
+
+//Adding remote to git 
+git 
+
+//Creating git ignore file
+touch .gitignore
+
+//Cloning a git repo to your local directory
+git clone <urlofgitrepo>
+
+
+
